@@ -1,0 +1,241 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+.design{
+    height: 100%;
+    width: 100%;
+   color: rgb(39, 38, 38);
+   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+svg{
+    margin-top: 1.2%;
+    margin-left: 18%;
+}
+header{
+   
+    width: 100%;
+height: 8%;
+margin-top: -1%;
+    position: fixed;
+    background-color: white;
+}
+.top{
+    background-color: white;
+    height: 12%;
+}
+
+
+.links{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin-top: -2.5%;
+    word-spacing: 20px;
+    
+    
+}
+p{
+    text-align: center;
+    
+   margin-top: -2%;
+    background-color: white;
+    color: black;
+    z-index: 999;
+}
+p span{
+    color: rgb(0, 123, 255);
+}
+.image1{
+    text-align: center;
+     
+}
+h1{
+    letter-spacing: -0.1;
+    font-weight: 500;
+    font-size: 70px;
+}
+h2{
+    font-weight: 450;
+    font-size: 29px;
+}
+button{
+    padding: 12px;
+    width: 10%;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.b1{
+    color: white;
+    border:none;
+    background-color: rgb(25, 146, 253);
+}
+.b2{
+    color: rgb(25, 146, 253);
+    background-color: white;
+    border-color:  rgb(25, 146, 253);
+}
+.mid{
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:100%;
+    background-image: url("https://www.apple.com/v/home/cm/images/heroes/community-letter-from-tim/hero_apple_color_logo__fpdpt13yldym_medium.jpg");
+}
+.image{
+    text-align: center;
+    padding-top: 30%;
+}
+.b{
+    margin-top: 5%;
+   width: 15%; 
+    color: white;
+    border:none;
+    background-color: rgb(25, 146, 253);
+
+}
+.middle{
+    background-image: url("https://www.apple.com/v/home/cm/images/heroes/iphone-family/hero_iphone_family__fuz5j2v5xx6y_medium_2x.jpg");
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:100%;
+    margin-top: 2%;
+}
+
+.image4 img{
+    margin-top: 5%;
+}
+ .image6 img{
+    margin-top: 5%;
+ }   
+.image7 img{
+    margin-top: 5%;
+}
+
+.image2{
+    
+    text-align: center;
+}
+
+.image2 img{
+    margin-top: 5%;
+}
+
+.middle2{
+    margin-top: 2%;
+    background-image: url("https://www.apple.com/v/home/a/images/logos/apple-watch-series-11/hero_logo_apple_watch_series_11__d7d7nh53wq2q_medium_2x.png");
+    background-image: url("https://www.apple.com/v/home/cm/images/heroes/apple-watch-series-11/hero_apple_watch_series_11__bdz1mml4dx6q_medium_2x.jpg");
+   background-size: cover;
+background-position: center;
+width: 100%;
+height:100%;
+
+}
+.b3{
+    color: white;
+    border:none;
+    background-color: rgb(25, 146, 253);
+}
+.b4{
+    color: rgb(25, 146, 253);
+    background-color: white;
+    border-color:  rgb(25, 146, 253);
+}
+.b6{
+    color: white;
+    border:none;
+    background-color: rgb(25, 146, 253);
+    width: 20%;
+}
+.b7{
+    color: rgb(25, 146, 253);
+    background-color: white;
+    border-color:  rgb(25, 146, 253);
+}
+.middle3{
+    margin-top: 2%;
+    background-image: url("https://www.apple.com/v/home/cm/images/heroes/macbook-neo/hero_macbook_neo__gnm3snkti4a6_medium_2x.jpg");
+    background-size: cover;
+background-position: center;
+width: 100%;
+height:100%;
+}
+.image3{
+    text-align: center;
+}
+.image4{
+    text-align: center;
+}
+.middle4{
+    
+    margin-top: 2%;
+    background-size: cover;
+background-position: center;
+width: 49%;
+height:100%;
+background-image: url("https://www.apple.com/v/home/cm/images/promos/ipad-air-m4/promo_ipad_air_m4__f9ie3h3pzr6m_medium_2x.jpg");
+}
+.image5{
+    color: white;
+    text-align: center;
+}
+.middle5{
+    margin-left: 50%;
+    
+    background-image: url("https://www.apple.com/v/home/cm/images/promos/macbook-pro/promo_macbook_pro__e3xqrygvp9ea_medium_2x.jpg");
+ margin-top: -48%;
+    background-size: cover;
+background-position: center;
+width: 49%;
+height:100%;
+}
+.middle6{
+    margin-top: 2%;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width:49%;
+    background-image: url("https://www.apple.com/v/home/cm/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_medium.jpg");
+}
+.image6{
+text-align: center;
+
+}
+.b5{
+    color: white;
+    border:none;
+    background-color: rgb(25, 146, 253);
+   width:30%;
+}
+.middle7{
+     margin-top: -48%;
+    background-size: cover;
+background-position: center;
+width: 49%;
+height:100%;
+margin-left: 50%;
+background-image: url("https://www.apple.com/v/home/cm/images/promos/apple-card/promo_apple_card__5cm7draujpey_medium.jpg");
+}
+.image7{
+    text-align: center;
+}
+.b8{
+     color: rgb(25, 146, 253);
+    background-color: white;
+    border-color:  rgb(25, 146, 253);
+    width: 15%;
+}
+footer{
+    font-size: small;
+    text-align: left;
+    padding: 5%;
+    background-color: rgb(243, 242, 242);
+   
+}
