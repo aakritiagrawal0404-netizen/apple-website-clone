@@ -2,6 +2,10 @@
 
 A responsive Apple website clone built using HTML and CSS.
 
+## Live Demo
+
+🔗 https://aakritiagrawal0404-netizen.github.io/apple-website-clone/
+
 ## Features
 
 - Responsive Design
