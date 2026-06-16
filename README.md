@@ -16,9 +16,17 @@ A responsive Apple website clone built using HTML and CSS.
 
 ## Screenshots
 
-### Homepage
+## Homepage Preview
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/Screenshot%20(68).png)
+
+## Apple Watch Section
+
+![Watch](screenshots/Screenshot%20(67).png)
+
+## Community Letter Section
+
+![Community](screenshots/Screenshot%20(66).png)
 
 ## Learning Outcomes
 
